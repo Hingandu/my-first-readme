@@ -1,12 +1,14 @@
-# My First README  
+# My First README
 
 ## 📌 Project Title  
 My First README  
 
 ## 📝 Description  
-This is my first project using Git and GitHub. It is for learning how to manage files, commit changes, and push them to GitHub.  
+This is my first project using Git and GitHub.  
+It is for learning how to manage files, commit changes, and push them to GitHub.  
 
-## ⚙ Installation Instructions  
-1. Clone the repo:  
+## ⚙️ Installation Instructions  
+
+1. Clone the repository:  
    ```bash
    git clone https://github.com/Hingandu/my-first-readme.git
